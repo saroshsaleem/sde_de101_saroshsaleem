@@ -19,7 +19,7 @@ Enable Data Analytics
           - make sure they run without any issue, and monitor them
           - Run schedules, when needed in form of event(trigger) and in response of something
           - Able to scale data pipelines
-          - Check data failure, deadlocks, and long runing tasks via data pipelines
+          - Check data failures, deadlocks, and long runing tasks via data pipelines
 
 4)- Manage Datwarehousing
           - Warehousing performance
