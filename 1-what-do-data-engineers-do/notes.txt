@@ -6,6 +6,7 @@ Enable Data Analytics
 
 1)- I will always look forward for Data strategy for the company
           - Asking stakeholder what are their requirements to showcase them the result via Data
+          - Appraoach down stream (Data Analyst) to gather what exactly he wants to achieve for company, and how often require Data          
           - Will approach Up-stream people like (Software Developer) team to understand the structure and how they have design the Database
 
 2)- Serve Data to end-users
