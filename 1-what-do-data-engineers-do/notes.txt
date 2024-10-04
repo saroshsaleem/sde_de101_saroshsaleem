@@ -1,0 +1,30 @@
+Assignment-1:
+
+This all notes to enable Data Analytics I have gathered from this link (https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/)
+
+Enable Data Analytics
+
+1)- I will always look forward for Data strategy for the company
+          - Asking stakeholder what are their requirements to showcase them the result via Data
+          - Will approach Up-stream people like (Software Developer) team to understand the structure and how they have design the Database
+
+2)- Serve Data to end-users
+          - In the form of Dashboards/ visualization (with different tools as required (PowerBI, tableau, or custom dashboards))
+          - Permission of Data for different users
+          - Data dump for clients
+          - Data endpoints (API)
+
+3)- Schedule, execute, and monitor data pipelines
+          - make sure they run without any issue, and monitor them
+          - Run schedules, when needed in form of event(trigger) and in response of something
+          - Able to scale data pipelines
+          - Check data failure, deadlocks, and long runing tasks via data pipelines
+
+4)- Manage Datwarehousing
+          - Warehousing performance
+          - Data quality common models like (Kimbal modelling)
+          - Data modelling
+
+5)- Move data between systems
+          - using some tools to move data between system
+            (As we know that sometime data needs to exeute on real-time for which we can use spark, pandas, Dockers, and etc)
